@@ -1,0 +1,26 @@
+body{
+    background-image: url('Images/background.jpg');
+   background-size: cover;
+  
+}
+
+button{
+    
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid red;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+h3{
+    background-color: aliceblue;
+   
+}
+
+p{
+    background-color: aliceblue;
+    display: inline-block;
+    padding: 2px;
+
+}
